@@ -1,0 +1,1 @@
+{"resources":[{"@type":"Symfony\\Component\\Config\\Resource\\FileResource","resource":"C:\\Users\\samor\\Desktop\\my_php\\todo\\assets\\controllers\\hello_controller.js"},{"@type":"Symfony\\Component\\Config\\Resource\\FileExistenceResource","exists":true,"resource":"C:\\Users\\samor\\Desktop\\my_php\\todo\\assets\\vendor\\@hotwired\\stimulus\\stimulus.index.js"}]}
